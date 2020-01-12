@@ -1,0 +1,221 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Shanghuapeng.com" resolutions="1x" timestamp="1578819457006">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="help.css" crc="82819872" ref="help"/>
+    <file name="animation.css" crc="498713301" ref="animation"/>
+    <file name="illustration.css" crc="208534972" ref="illustration"/>
+    <file name="photography.css" crc="9569969" ref="photography"/>
+    <file name="index.css" crc="4155272653" ref="index"/>
+    <file name="hug.css" crc="256220705" ref="hug"/>
+    <file name="monkey-touch-cat.css" crc="4151146458" ref="monkey-touch-cat"/>
+    <file name="graphic.css" crc="279535436" ref="graphic"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photography:monkey-touch-cat:animation:illustration:hug:help:graphic"/>
+    <file name="museutils.js" crc="3803043152" ref="index:photography:monkey-touch-cat:animation:illustration:hug:help:graphic"/>
+    <file name="whatinput.js" crc="86476730" ref="index:photography:monkey-touch-cat:animation:illustration:hug:help:graphic"/>
+    <file name="museconfig.js" crc="380897831" ref="index:photography:monkey-touch-cat:animation:illustration:hug:help:graphic"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:animation"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:photography:monkey-touch-cat:animation:illustration:hug:help:graphic"/>
+    <file name="require.js" crc="4157109226" ref="index:photography:monkey-touch-cat:animation:illustration:hug:help:graphic"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="animation"/>
+    <file name="webpro.js" crc="242022427" ref="illustration"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="illustration"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="illustration"/>
+    <file name="touchswipe.js" crc="4066113679" ref="illustration"/>
+  </folder>
+  <folder name="images">
+    <file name="head.png" crc="4068948273" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="planet.png" crc="4195269029" ref="index:animation">
+      <caption webpage="index" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="u4928-11.png" crc="499232769" ref="index"/>
+    <file name="title (2).png" crc="3893331330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:illustration"/>
+    <file name="u5070_states.png" crc="52571279" ref="index"/>
+    <file name="u5070_states-r.png" crc="4079594593" ref="index"/>
+    <file name="u5070_states-m.png" crc="4080423673" ref="index"/>
+    <file name="抱抱2-buttonu2089-fr.jpg" crc="57739751" ref="index"/>
+    <file name="622-buttonu2115-fr.jpg" crc="3932798212" ref="index"/>
+    <file name="019034930021-buttonu2121-fr.jpg" crc="378362175" ref="index"/>
+    <file name="622.jpg" crc="3803636277" seo="true" ref="graphic">
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic" alt=""/>
+    </file>
+    <file name="019034930001.jpg" crc="4065239514" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="019034930025.jpg" crc="4127247481" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="019034930021454x301.jpg" crc="174700715" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="019034930026.jpg" crc="125435524" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="019034930020.jpg" crc="3804202857" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="019034930017.jpg" crc="4075488222" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="019034930006.jpg" crc="3976493760" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="019034930015.jpg" crc="3895299762" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="019034930013.jpg" crc="3842849134" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="019034930028.jpg" crc="117742489" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="019034930027.jpg" crc="4157252280" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="title.png" crc="3992982348" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="bling.gif" crc="4215477222" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="title-u2384-fr.png" crc="178250711" ref="animation"/>
+    <file name="03_10001.jpg" crc="513601728" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="分鏡06.jpg" crc="400658873" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="分鏡05.jpg" crc="3863216145" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="05_10152.jpg" crc="4083801655" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="分鏡02.jpg" crc="531937225" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="分鏡01.jpg" crc="95714377" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="主.png" crc="314343726" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="分鏡04.jpg" crc="3758811246" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="分鏡07.jpg" crc="350915196" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="yaaa.png" crc="257549866" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="u3614-11.png" crc="4109866214" ref="animation"/>
+    <file name="太空人 三 2.jpg" crc="40498954" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="太空人2.jpg" crc="225181647" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="太空人四.jpg" crc="4149551393" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="抱抱1.jpg" crc="495553266" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="抱抱3.jpg" crc="4081667457" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="插圖3.jpg" crc="109210377" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="illustration"/>
+    <file name="太空人2634x634.jpg" crc="330581248" seo="true" ref="help">
+      <caption webpage="help" alt=""/>
+    </file>
+    <file name="太空人四634x634.jpg" crc="303674292" seo="true" ref="help">
+      <caption webpage="help" alt=""/>
+    </file>
+    <file name="海報第二版本.jpg" crc="3965980848" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+    </file>
+    <file name="海報 (1).png" crc="525325239" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+    </file>
+    <file name="海報第二版本382x541.jpg" crc="4242060339" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+    </file>
+    <file name="海報 (1)388x540.png" crc="258252969" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+    </file>
+    <file name="抱抱2.jpg" crc="76614111" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="猴子.jpg" crc="373415492" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="猴子2.jpg" crc="4203762598" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="猴子3.jpg" crc="4277998942" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="抱抱1975x549.jpg" crc="250955542" seo="true" ref="hug">
+      <caption webpage="hug" alt=""/>
+    </file>
+    <file name="抱抱2975x549.jpg" crc="4261767880" seo="true" ref="hug">
+      <caption webpage="hug" alt=""/>
+    </file>
+    <file name="抱抱3975x549.jpg" crc="4249554663" seo="true" ref="hug">
+      <caption webpage="hug" alt=""/>
+    </file>
+    <file name="插圖3-crop-u6452.jpg" crc="401923701" seo="true" ref="hug">
+      <caption webpage="hug" alt=""/>
+    </file>
+    <file name="太空人 三 2644x644.jpg" crc="3769998558" seo="true" ref="help">
+      <caption webpage="help" alt=""/>
+    </file>
+    <file name="太空人2415x415.jpg" crc="4288531537" seo="true" ref="help">
+      <caption webpage="help" alt=""/>
+    </file>
+    <file name="太空人四415x415.jpg" crc="3817028758" seo="true" ref="help">
+      <caption webpage="help" alt=""/>
+    </file>
+    <file name="太空人 三 2415x415.jpg" crc="3900388037" seo="true" ref="help">
+      <caption webpage="help" alt=""/>
+    </file>
+    <file name="分鏡062.jpg" crc="171296988" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="分鏡052.jpg" crc="412494523" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="分鏡022.jpg" crc="375432726" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="分鏡012.jpg" crc="1984196" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="分鏡042.jpg" crc="4134654582" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="分鏡072.jpg" crc="3940036347" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3862771256" seo="true" mt="1578817248454" redirect="true"/>
+  <file name="photography.html" crc="397445692" seo="true" mt="1578816029876" redirect="true"/>
+  <file name="monkey-touch-cat.html" crc="320196562" seo="true" mt="1578817887240" redirect="true"/>
+  <file name="animation.html" crc="4248514484" seo="true" mt="1578819163085" redirect="true"/>
+  <file name="illustration.html" crc="144492472" seo="true" mt="1578818799441" redirect="true"/>
+  <file name="hug.html" crc="488546414" seo="true" mt="1578819304946" redirect="true"/>
+  <file name="help.html" crc="46206620" seo="true" mt="1578819366223" redirect="true"/>
+  <file name="graphic.html" crc="3990210893" seo="true" mt="1578819332941" redirect="true"/>
+</manifest>
